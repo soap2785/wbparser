@@ -1,0 +1,15 @@
+2026/04/15-12:22:45.628 4b18 Reusing MANIFEST C:\Work\wb_parser\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/15-12:22:45.634 4b18 Recovering log #330
+2026/04/15-12:22:45.635 4b18 Reusing old log C:\Work\wb_parser\user_data\Default\Local Storage\leveldb/000330.log 
+2026/04/15-12:23:45.638 397c Level-0 table #334: started
+2026/04/15-12:23:45.642 397c Level-0 table #334: 148383 bytes OK
+2026/04/15-12:23:45.644 397c Delete type=0 #330
+2026/04/15-12:23:45.644 397c Compacting 4@0 + 1@1 files
+2026/04/15-12:23:45.650 397c Generated table #335@0: 39 keys, 236239 bytes
+2026/04/15-12:23:45.650 397c Compacted 4@0 + 1@1 files => 236239 bytes
+2026/04/15-12:23:45.650 397c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/15-12:23:45.650 397c Delete type=2 #323
+2026/04/15-12:23:45.651 397c Delete type=2 #325
+2026/04/15-12:23:45.651 397c Delete type=2 #328
+2026/04/15-12:23:45.651 397c Delete type=2 #331
+2026/04/15-12:23:45.651 397c Delete type=2 #334
