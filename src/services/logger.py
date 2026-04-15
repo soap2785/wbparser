@@ -14,11 +14,11 @@ class Logger(Logger_):
         if type == "info":
             super().__init__("info_logger" + str(randint(10000, 99999)))
             self.setLevel(DEBUG)
-            handler = FileHandler("logs/docreport.log")
+            handler = FileHandler("logs/wbparser.log")
         elif type == "error":
             super().__init__("error_logger" + str(randint(10000, 99999)))
             self.setLevel(ERROR)
-            handler = FileHandler("logs/docreport.err.log")
+            handler = FileHandler("logs/wbparser.err.log")
         else:
             raise ValueError("Logger type must be either 'info' or 'error'")
         handler.setFormatter(self.formatter)
